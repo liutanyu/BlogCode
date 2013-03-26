@@ -1,4 +1,4 @@
-# [Blog Codes](tl605.wordpress.com)
+# Blog Codes
 
 ###  [�ݹ飬Y Combinator](http://tl605.wordpress.com/2013/03/26/%E9%80%92%E5%BD%92%EF%BC%8Cy-combinator/)
 + mergesort.ss
