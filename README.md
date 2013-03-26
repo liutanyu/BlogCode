@@ -3,7 +3,7 @@
 ###  [递归，Y Combinator](http://tl605.wordpress.com/2013/03/26/%E9%80%92%E5%BD%92%EF%BC%8Cy-combinator/)
 + mergesort.ss
 + quicksort.ss
-+ odd___even_test.ss
++ odd_even_test.ss
 + sublist.ss
 + y.ss
 
