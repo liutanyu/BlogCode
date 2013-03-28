@@ -15,3 +15,7 @@
 
 + continuation.ss
 + while.ss 
+
+###[Partial application and Currying](http://tl605.wordpress.com/2013/02/21/partial-application-and-currying/)
+
++ curry.ss
